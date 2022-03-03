@@ -1,0 +1,13 @@
+footer{
+    text-align: center;
+    background: url(https://i.postimg.cc/8PNhBsbm/bg.jpg);
+    padding: 40px;
+    width: 100%;
+}
+
+.copyright{
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px;
+}
+
